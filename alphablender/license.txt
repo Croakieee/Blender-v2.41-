@@ -1,0 +1,104 @@
+
+-------------------------------------------------------------
+        Alpha Blender Pro End-User License Agreement
+-------------------------------------------------------------
+
+This is a legal agreement between you, the users,
+and Solidlabs Technology. By installing or using this
+Software, you agree to be bound by the terms of this
+agreement. If you do not agree to those terms, you may
+not use or install the Software.
+
+The Alpha Blender Pro is shareware. This means:
+
+	1. All copyrights to Alpha Blender Pro is exclusively
+owned by Solidlabs Technology.
+
+	2. Anyone may use this software during a test period
+of 15 days. Following this test period of 15 days or less,
+if you wish to continue to use Alpha Blender Pro, you MUST
+register.
+
+	3. Once registered, the user is granted a
+non-exclusive license to use Alpha Blender Pro on a single
+session of a single computer. If your computer is capable
+of running more than one simultaneous session, you may
+not use the Alpha Blender Pro on more than one session at
+a time. You may delete the Alpha Blender Pro from one
+computer and reinstall it on another, but you may not
+install the Alpha Blender Pro on more than one computer
+at any given time.
+
+	4. If you wish to install the Alpha Blender Pro on
+more than one computer or use the Alpha Blender Pro for
+more than one session on a particular computer, you may:
+
+		4.1. Purchase separate copies of the
+Software for each such computer or session.
+		4.2. Contact Solidlabs Technology
+[ support@solidlabs.com ] for MULTIPLE/ CORPORATE/
+NATIONAL/ INTERNATIONAL/ RESALE USAGE licence purchasing.
+
+	5. The Alpha Blender Pro unregistered trial
+version may be freely distributed, with exceptions noted
+below, provided the distribution package is not modified
+in any way.
+
+		5.1. No person or company may distribute
+separate parts of the package without written permission
+of the copyright owner.
+		5.2. The Alpha Blender Pro unregistered
+trial version may not be distributed inside of any other
+software package without written permission of the
+copyright owner.
+		5.3. Hacks/crack, keys or key generators
+may not be included on the same distribution.
+
+	6. To register you must complete the registration
+form and send it, with registration fee, to the authorized
+registration site.
+
+	7. Alpha Blender Pro archiver is distributed
+"as is".  No warranty of any kind is expressed or implied.
+You use at your own risk. Neither the author nor the agents
+of the author will be liable for data loss, damages, loss
+of profits or any other kind of loss while using or
+misusing this software.
+
+	8. You may not use, copy, emulate, clone, rent,
+lease, sell, modify, decompile, disassemble, otherwise
+reverse engineer, or transfer the licensed program, or
+any subset of the licensed program, except as provided
+for in this agreement. Any such unauthorized use shall
+result in immediate and automatic termination of this
+license and may result in criminal and/or civil prosecution.
+
+	Alpha Blender Pro binary code can't be used or
+reverse engineered to re-create the Software algorithms,
+which are proprietary, without written permission of
+the Solidlabs Technology.
+
+	Alpha Blender Pro keyfiles may not be distributed,
+except as stated in item (5) above, outside of the area
+of legal control of the person or persons who purchased
+the original license, without written permission of the
+copyright holder.
+
+	All rights not expressly granted here are reserved
+by Solidlabs Technology.
+
+	10. Installing and using Alpha Blender Pro
+signifies acceptance of these terms and conditions
+of the license.
+
+	11. If you do not agree with the terms of this
+license you must remove Alpha Blender Pro files from
+your storage devices and cease to use the Alpha Blender Pro.
+
+Thank you for using the original Alpha Blender Pro.
+Solidlabs Technology.
+
+-------------------------------------------------------------
+Copyright (C) 2002 Solidlabs Technology. All rights reserved.
+                  http://solidlabs.com
+-------------------------------------------------------------
